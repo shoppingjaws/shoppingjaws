@@ -7,6 +7,12 @@
 
 - 🌱 I’m currently learning **Cloudnatives and SRE Practice**
 
+### Masterpieces
+
+- [radio-station](https://github.com/shoppingjaws/radio-station) Private podcast with AWS and Radiko
+- [enhanced-slack-platform](https://github.com/shoppingjaws/enhanced-slack-platform) flexible notion edit integration in Slack
+- [actions-rewitable-comment](https://github.com/shoppingjaws/actions-rewritable-comment) Github Action that does not require Hide and repost comment every time CI runs
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
